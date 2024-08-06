@@ -13,8 +13,10 @@ const Hero=()=>{
               <ReactTyped 
               className="md:text-5xl sm:text-4xl text-xl font-bold md:pl-4 pl-2"
               strings={['BTB','BTC','SAAS']} typeSpeed={120} backSpeed={140} loop/>
-              {/* fixed minor oopsie */}
+             
                 </div>
+
+              
                
              <p className="md:text-2xl text-xl font-bold text-gray-500 ">Monitor your data analytics to increase revenue for BTB,BTC & SAAS platforms</p> 
              <button className="bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black ">Get Started</button>
